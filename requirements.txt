@@ -1,0 +1,21 @@
+# Core numeric / data
+numpy>=1.24
+pandas>=2.0
+scipy>=1.11
+
+# Exchange data
+ccxt>=4.2
+
+# Visualisation (optional but useful)
+matplotlib>=3.7
+seaborn>=0.13
+
+# Stats
+statsmodels>=0.14
+
+# Progress / utilities
+tqdm>=4.66
+python-dotenv>=1.0
+
+# Testing
+pytest>=7.4
